@@ -51,6 +51,7 @@
         "DatabaseFixtureTest\/testPerBookmarks1000startUp()",
         "DatabaseFixtureTest\/testPerfHistory4000openMenu()",
         "DatabaseFixtureTest\/testPerfHistory4000startUp()",
+        "DefaultBrowserTests",
         "DesktopModeTestsIpad",
         "DesktopModeTestsIphone\/testChangeModeInSameTab()",
         "DesktopModeTestsIphone\/testLongPressReload()",
